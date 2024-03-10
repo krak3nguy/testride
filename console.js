@@ -20,4 +20,4 @@ const encodedMessage = encodeMessage(message);
 
 console.log("Original message:", message);
 console.log("Encoded message:", encodedMessage);
-//committed the changes bro
+
