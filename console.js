@@ -21,3 +21,4 @@ const encodedMessage = encodeMessage(message);
 console.log("Original message:", message);
 console.log("Encoded message:", encodedMessage);
 //is gemini>>>GPT?
+//#7
