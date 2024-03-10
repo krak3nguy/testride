@@ -15,4 +15,4 @@ const randomQuote = quotes[randomIndex];
 
 // Display the quote
 console.log(randomQuote);
-//6
+//10
